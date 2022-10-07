@@ -1,0 +1,46 @@
+﻿@using Ictshop.Models;
+@model List<Hangsanxuat>
+
+
+<br />
+@*<div class="navbar-header">
+    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+    </button>
+    <img class="navbar-brand" src="~/HinhanhSP/logo1.jpg" width="50" height="50" style="padding:0" />
+    @Html.ActionLink(" Lingg", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+    <form class="form-inline" style="float:left">
+        <input class="form-control mr-sm-2" type="search" placeholder="Tìm kiếm sản phẩm..." aria-label="Search">
+        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+    </form>
+
+</div>
+<div class="navbar-collapse collapse">
+    <ul class="nav navbar-nav">
+        <li>
+            <a style="cursor: pointer"
+               href="@Url.Action("dtiphonepartial", "Sanpham")">IPhone</a>
+        </li>
+        
+        <li>
+            <a style="color:white"
+               class="nav-link"
+               href="@Url.Action("Index", "DonHangs")">ĐƠN HÀNG</a>
+        </li>
+    </ul>
+</div>
+
+<script>
+    $("li").click(function (e) {
+        var id = $(this).attr("id");
+        $.ajax({
+            url: "RenderProductByCatId",
+            data: { CatId: id },
+            success: function (response) {
+                $("div.container").html(response);
+            }
+        });
+    });
+</script>*@

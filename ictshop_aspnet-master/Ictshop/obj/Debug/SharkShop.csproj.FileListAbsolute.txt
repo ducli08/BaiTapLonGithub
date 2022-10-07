@@ -1,0 +1,132 @@
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\Ictshop.dll.config
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\Ictshop.dll
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\Ictshop.pdb
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\roslyn\csc.exe
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\roslyn\csc.exe.config
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\roslyn\csc.rsp
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\roslyn\csi.exe
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\roslyn\csi.rsp
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\roslyn\System.AppContext.dll
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\roslyn\System.Collections.Immutable.dll
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\roslyn\System.IO.FileSystem.dll
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\roslyn\System.Reflection.Metadata.dll
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\roslyn\vbc.exe
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\roslyn\vbc.exe.config
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\roslyn\vbc.rsp
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\roslyn\VBCSCompiler.exe
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\roslyn\VBCSCompiler.exe.config
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\Antlr3.Runtime.dll
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\EntityFramework.dll
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\EntityFramework.SqlServer.dll
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\Microsoft.Web.Infrastructure.dll
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\Newtonsoft.Json.dll
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\PagedList.dll
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\PagedList.Mvc.dll
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\System.Web.Helpers.dll
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\System.Web.Mvc.dll
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\System.Web.Optimization.dll
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\System.Web.Razor.dll
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\System.Web.WebPages.Deployment.dll
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\System.Web.WebPages.dll
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\System.Web.WebPages.Razor.dll
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\WebGrease.dll
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\EntityFramework.xml
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\EntityFramework.SqlServer.xml
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\PagedList.xml
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\PagedList.Mvc.xml
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\System.Web.Helpers.xml
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\System.Web.Mvc.xml
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\System.Web.Optimization.xml
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\System.Web.Razor.xml
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\System.Web.WebPages.xml
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\System.Web.WebPages.Deployment.xml
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\System.Web.WebPages.Razor.xml
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\Newtonsoft.Json.xml
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\Antlr3.Runtime.pdb
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\obj\Debug\SharkShop.csproj.AssemblyReference.cache
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\obj\Debug\Ictshop.Migrations.AddThanhtien.resources
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\obj\Debug\SharkShop.csproj.GenerateResource.cache
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\obj\Debug\SharkShop.csproj.CoreCompileInputs.cache
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\obj\Debug\SharkShop.csproj.CopyComplete
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\obj\Debug\Ictshop.dll
+D:\Tài Liệu CNTT\Kỳ 6\Lập trình Web\BTL\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\obj\Debug\Ictshop.pdb
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\Ictshop.dll.config
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\Ictshop.dll
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\Ictshop.pdb
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\roslyn\csc.exe
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\roslyn\csc.exe.config
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\roslyn\csc.rsp
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\roslyn\csi.exe
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\roslyn\csi.rsp
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\roslyn\System.AppContext.dll
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\roslyn\System.Collections.Immutable.dll
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\roslyn\System.IO.FileSystem.dll
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\roslyn\System.Reflection.Metadata.dll
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\roslyn\vbc.exe
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\roslyn\vbc.exe.config
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\roslyn\vbc.rsp
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\roslyn\VBCSCompiler.exe
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\roslyn\VBCSCompiler.exe.config
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\Antlr3.Runtime.dll
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\EntityFramework.dll
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\EntityFramework.SqlServer.dll
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\Microsoft.Web.Infrastructure.dll
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\Newtonsoft.Json.dll
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\PagedList.dll
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\PagedList.Mvc.dll
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\System.Web.Helpers.dll
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\System.Web.Mvc.dll
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\System.Web.Optimization.dll
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\System.Web.Razor.dll
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\System.Web.WebPages.Deployment.dll
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\System.Web.WebPages.dll
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\System.Web.WebPages.Razor.dll
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\WebGrease.dll
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\EntityFramework.xml
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\EntityFramework.SqlServer.xml
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\PagedList.xml
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\PagedList.Mvc.xml
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\System.Web.Helpers.xml
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\System.Web.Mvc.xml
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\System.Web.Optimization.xml
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\System.Web.Razor.xml
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\System.Web.WebPages.xml
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\System.Web.WebPages.Deployment.xml
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\System.Web.WebPages.Razor.xml
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\Newtonsoft.Json.xml
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\Antlr3.Runtime.pdb
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\obj\Debug\SharkShop.csproj.AssemblyReference.cache
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\obj\Debug\Ictshop.Migrations.AddThanhtien.resources
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\obj\Debug\SharkShop.csproj.GenerateResource.cache
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\obj\Debug\SharkShop.csproj.CoreCompileInputs.cache
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\obj\Debug\SharkShop.csproj.CopyComplete
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\obj\Debug\Ictshop.dll
+D:\ictshop_aspnet-master\ictshop_aspnet-master\Ictshop\obj\Debug\Ictshop.pdb
