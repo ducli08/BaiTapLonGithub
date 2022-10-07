@@ -1,0 +1,45 @@
+﻿@model IEnumerable<Ictshop.Models.Donhang>
+
+@{ ViewBag.Title = "Index";
+                Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml"; }
+
+<h2>Quản lý đơn hàng</h2>
+
+<p>
+    
+</p>
+<table class="table table-bordered">
+    <tr>
+
+        <th>
+            Mã đơn
+        </th>
+        <th>
+            Ngày đặt
+        </th>
+        <th>
+            Tình trạng
+        </th>
+        
+    </tr>
+
+    @foreach (var item in Model)
+    {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.Madon)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Ngaydat)
+    </td>
+    <td>
+        @if(item.Tinhtrang == 1)
+                {
+                    <span style="color:red">Đang chờ xác nhận</span>
+                }
+    </td>
+    
+</tr>}
+
+</table>
+
